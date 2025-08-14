@@ -1,0 +1,80 @@
+# ==============================
+# Profile configuration for JobBot V2
+# ==============================
+
+# Basic Info
+name: "Erdem Yildiz"
+email: "erdemyildiz356299@outlook.com"
+phone: "+49 162 2633857"
+linkedin: "https://www.linkedin.com/in/erdem-yildiz"
+github: "https://github.com/erdemyildiz35"
+address: "Berlin, Germany"
+
+# Skills (list)
+skills_en:
+  - Python (Django, Flask)
+  - JavaScript (React, Node.js)
+  - SQL & Database Design
+  - Data Analysis (Pandas, NumPy)
+  - Cloud (AWS Certified Cloud Practitioner)
+  - Git & Version Control
+  - Problem Solving
+
+skills_de:
+  - Python (Django, Flask)
+  - JavaScript (React, Node.js)
+  - SQL & Datenbankdesign
+  - Datenanalyse (Pandas, NumPy)
+  - Cloud (AWS Certified Cloud Practitioner)
+  - Git & Versionskontrolle
+  - Problemlösungsfähigkeiten
+
+# Experience
+experience_en:
+  - role: "Full Stack Developer Intern"
+    company: "ING Bank"
+    location: "Istanbul, Turkey"
+    period: "2020 (9 months)"
+    details:
+      - "Developed web applications using Python/Django and JavaScript"
+      - "Worked on database management and API integrations"
+      - "Collaborated in Agile/Scrum environment"
+
+experience_de:
+  - role: "Full Stack Entwickler-Praktikant"
+    company: "ING Bank"
+    location: "Istanbul, Türkei"
+    period: "2020 (9 Monate)"
+    details:
+      - "Webanwendungen mit Python/Django und JavaScript entwickelt"
+      - "Arbeit an Datenbankverwaltung und API-Integrationen"
+      - "Zusammenarbeit in einer Agile/Scrum-Umgebung"
+
+# Education
+education_en:
+  - degree: "MSc in Information Technology"
+    institution: "University in Germany"
+    period: "Ongoing"
+
+  - degree: "BSc in Computer Engineering"
+    institution: "University in Turkey"
+    period: "Completed"
+
+education_de:
+  - degree: "Masterstudium in Informationstechnologie"
+    institution: "Universität in Deutschland"
+    period: "Laufend"
+
+  - degree: "Bachelor in Computertechnik"
+    institution: "Universität in der Türkei"
+    period: "Abgeschlossen"
+
+# Summary / Objective
+summary_en: >
+  Highly motivated and detail-oriented Full Stack Developer with experience in Python, Django, JavaScript, and cloud technologies.
+  Skilled in building scalable web applications and analyzing data for insights. Passionate about problem-solving and learning new technologies.
+
+summary_de: >
+  Hochmotivierter und detailorientierter Full-Stack-Entwickler mit Erfahrung in Python, Django, JavaScript und Cloud-Technologien.
+  Kompetent im Erstellen skalierbarer Webanwendungen und in der Analyse von Daten zur Gewinnung von Erkenntnissen.
+  Leidenschaftlich im Problemlösen und im Erlernen neuer Technologien.
